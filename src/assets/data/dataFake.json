@@ -1,0 +1,18 @@
+{
+	"card": [
+		{
+			"id": 1,
+			"photoCover": "assets/bt-1.jpg",
+			"isExclusive": false,
+			"gameType": "PS4",
+			"gamePrice": "R$ 27,64"
+		},
+		{
+			"id": 2,
+			"photoCover": "assets/bt-4.jpg",
+			"isExclusive": false,
+			"gameType": "PS4",
+			"gamePrice": "R$ 31,79"
+		}
+	]
+}

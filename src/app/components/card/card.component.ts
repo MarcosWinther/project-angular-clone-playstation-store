@@ -1,5 +1,8 @@
 import { Component, Input } from '@angular/core';
 
+// JSON
+import dataFake from '../../../assets/data/dataFake.json';
+
 @Component({
   selector: 'app-card',
   templateUrl: './card.component.html',
